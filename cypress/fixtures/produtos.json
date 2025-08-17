@@ -1,0 +1,22 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "L",
+        "cor": "Blue",
+        "quantidade": 3
+    },
+
+    {
+        "nomeProduto": "Teton Pullover Hoodie",
+        "tamanho": "XS",
+        "cor": "Black",
+        "quantidade": 5
+    },
+
+    {
+        "nomeProduto": "Josie Yoga Jacket",
+        "tamanho": "M",
+        "cor": "Gray",
+        "quantidade": 2
+    }
+]
